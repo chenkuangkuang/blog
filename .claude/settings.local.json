@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:upload-images.jianshu.io)",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/封面-写给大家看的设计书.png\" \"http://upload-images.jianshu.io/upload_images/29336-d3858c09c1be6d86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/亲密性1.png\" \"http://upload-images.jianshu.io/upload_images/29336-c2e845e05881adaa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/亲密性2.png\" \"http://upload-images.jianshu.io/upload_images/29336-768f7d2b1721459a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐1.jpeg\" \"http://upload-images.jianshu.io/upload_images/29336-7202bfc5688cc8d1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐2.jpeg\" \"http://upload-images.jianshu.io/upload_images/29336-179b09223bbb5597.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐3.png\" \"http://upload-images.jianshu.io/upload_images/29336-a28909a4cd683dfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐4.png\" \"http://upload-images.jianshu.io/upload_images/29336-d11f2865f9702178.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐5.png\" \"http://upload-images.jianshu.io/upload_images/29336-551cd1a65ac71dcc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/对齐6.png\" \"http://upload-images.jianshu.io/upload_images/29336-6a1e7841f4589762.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(curl -s -o \"source/images/来走走不讲原则的设计路线/重复1.jpeg\" \"http://upload-images.jianshu.io/upload_images/29336-f322c4a2518db228.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240\")",
+      "Bash(powershell -ExecutionPolicy Bypass -File download_images.ps1)",
+      "Bash(cmd //c \"mkdir source\\\\\\\\images\\\\\\\\来走走不讲原则的设计路线\")",
+      "Bash(python download_images.py)",
+      "Bash(pkill -f \"hexo server\")",
+      "Bash(npx hexo *)"
+    ]
+  }
+}
