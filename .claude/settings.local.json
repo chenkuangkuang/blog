@@ -19,7 +19,10 @@
       "Bash(npx hexo *)",
       "Bash(python batch_fix_images.py)",
       "Bash(python -c ' *)",
-      "Bash(python download_wechat.py)"
+      "Bash(python download_wechat.py)",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(pip install *)"
     ]
   }
 }
