@@ -1,8 +1,10 @@
 ---
 title: 提示词の艺术：我的AI使用心得
 date: 2026-03-07 20:46
-categories: 随笔
-tags: 杂感
+categories: 技术
+tags: 
+- 技术
+- AI
 toc: true
 ---
 
