@@ -85,7 +85,7 @@ PW是真有勇气，尤其是有那种为了一个人豁出去的胆量，于是
 
 真心希望他能等到自己的那一个。
 
-![图片来自PW的朋友圈](https://upload-images.jianshu.io/upload_images/29336-b44a1e710ed6fc63.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片来自PW的朋友圈](/images/我认识的PW飞翔/图片来自PW的朋友圈.jpg)
 
 
 

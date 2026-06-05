@@ -6,7 +6,9 @@ tags:
 - 数码
 toc: true
 ---
-<div class="image-package"><img src="http://upload-images.jianshu.io/upload_images/29336-81c95e996349b441.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/1080/q/100"><br><div class="image-caption">iPhone 6s</div></div><p>
+![iPhone 6s](/images/用什么都别用iphone—【热点练笔1：iphone6s】/iPhone6s.jpg)
+
+
 9月9日晚，我微博刷着刷着，视线里跑出几条讨论“春晚”的微博，我一惊，以为自己像以往常一样，睡得太死，已不知何年何月。随手点开评论，哦，苹果要开发布会了。
 
 一个IT公司，按计划发布它的新产品，竟然引来这么多人（还是大洋彼岸的）围观，还把它当一年一度的春晚，熬夜，刷屏，翘首期盼，岂不怪哉！

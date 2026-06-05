@@ -20,6 +20,6 @@ toc: true
 升级win10了，一切都会好的。
 
 
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/29336-8422e7784078b618.png)
+![Paste_Image.png](/images/WP手机，让你学会感恩/Paste_Image.png.png)
 
 

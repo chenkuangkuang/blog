@@ -16,7 +16,10 @@
       "Bash(cmd //c \"mkdir source\\\\\\\\images\\\\\\\\来走走不讲原则的设计路线\")",
       "Bash(python download_images.py)",
       "Bash(pkill -f \"hexo server\")",
-      "Bash(npx hexo *)"
+      "Bash(npx hexo *)",
+      "Bash(python batch_fix_images.py)",
+      "Bash(python -c ' *)",
+      "Bash(python download_wechat.py)"
     ]
   }
 }

@@ -25,10 +25,10 @@ toc: true
 
 一张图表示固态硬盘和机械硬盘的速度差距：
 
-![1TB 希捷机械硬盘的测试成绩.jpg](http://upload-images.jianshu.io/upload_images/29336-d9590f1202d987a1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1TB 希捷机械硬盘的测试成绩.jpg](/images/你为什么需要一块SSD？/1TB 希捷机械硬盘的测试成绩.jpg.jpg)
 
 
-![512GB 浦科特M6e SSD的测试成绩.jpg](http://upload-images.jianshu.io/upload_images/29336-a589b16b945edd79.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![512GB 浦科特M6e SSD的测试成绩.jpg](/images/你为什么需要一块SSD？/512GB 浦科特M6e SSD的测试成绩.jpg.jpg)
 
 （软件显示了四行速度，只看第一行的read（读取数据）速度和write（写入数据）速度即可，几倍的差距啊有木有！）
 
@@ -50,20 +50,20 @@ toc: true
 
 闪迪加强版（京东价￥259）
 
-![闪迪加强版.png](http://upload-images.jianshu.io/upload_images/29336-5df5bf433ec95feb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![闪迪加强版.png](/images/你为什么需要一块SSD？/闪迪加强版.png.png)
 
 东芝Q300（京东价￥299，有水分，可以等活动底价￥249）
 
-![东芝Q300.png](http://upload-images.jianshu.io/upload_images/29336-9ba40e33b445eb2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![东芝Q300.png](/images/你为什么需要一块SSD？/东芝Q300.png.png)
 
 300——400经典款
 
 闪迪至尊高速（京东价￥379）
 
-![闪迪至尊高速2代.png](http://upload-images.jianshu.io/upload_images/29336-2132deadaca8a813.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![闪迪至尊高速2代.png](/images/你为什么需要一块SSD？/闪迪至尊高速2代.png.png)
 
 三星850EVO（京东价￥349）
 
-![三星850EVO.png](http://upload-images.jianshu.io/upload_images/29336-3aee1c74f7c63724.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![三星850EVO.png](/images/你为什么需要一块SSD？/三星850EVO.png.png)
 
 至于有钱的朋友，请出门右转上苹果官网定最新款macbook air谢谢。
